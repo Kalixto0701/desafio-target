@@ -1,0 +1,3 @@
+Eu ligaria o interruptor 1, aguardaria por um tempo, desligaria, ligaria o interruptor 2, e iria as salas 1 e 2.
+A sala que estiver com a lampada acesa é a controlada pelo interruptor 2, a que estiver desligada, com a lampada quente, é a controlada pelo interruptor 1, e a desligada e com lampada fria, é a controlada pelo interruptor 3.
+Só precisaria de 2 visitas, para determinar cada, já que a 3ª seria determinada por eliminação.
